@@ -49,8 +49,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/FDechterenko
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: mastodon
+  icon_pack: fab
+  link: https://mastodon.online/@fdechterenko
+  
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=EDBdGuEAAAAJ
 - icon: github
   icon_pack: fab
@@ -64,14 +68,12 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "dechterenko@praha.psu.cas.cz"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Filip Dechterenko is a researcher at the Institute of Psychology, Czech Academy of Sciences. He primarily focuses on research on visual memory and visual attention. He uses behavioral experiments, deep neural networks, and eye tracking. Moreover, he loves open science and statistics in general.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
