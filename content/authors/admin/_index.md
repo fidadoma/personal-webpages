@@ -76,4 +76,4 @@ highlight_name: true
 
 Filip Dechterenko is a researcher at the Institute of Psychology, Czech Academy of Sciences. He primarily focuses on research on visual memory and visual attention. He uses behavioral experiments, deep neural networks, and eye tracking. Moreover, he loves open science and statistics in general.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

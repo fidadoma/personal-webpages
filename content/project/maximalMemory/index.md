@@ -11,7 +11,7 @@ date: "2020-01-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Ankara Kalesi on Unsplash
   focal_point: Smart
 
 links:
