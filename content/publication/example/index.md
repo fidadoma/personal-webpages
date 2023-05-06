@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "False memories when viewing overlapping scenes"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -26,15 +26,15 @@ publishDate: "2022-04-06T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *PeerJ*, 10, e13187.
+publication_short: In *PeerJ*, 10, e13187.
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Humans can memorize and later recognize many objects and complex scenes. In this study, we prepared large photographs and presented participants with only partial views to test the fidelity of their memories. The unpresented parts of the photographs were used as a source of distractors with similar semantic and perceptual information. Additionally, we presented overlapping views to determine whether the second presentation provided a memory advantage for later recognition tests. Experiment 1 (N = 28) showed that while people were good at recognizing presented content and identifying new foils, they showed a remarkable level of uncertainty about foils selected from the unseen parts of presented photographs (false alarm, 59%). The recognition accuracy was higher for the parts that were shown twice, irrespective of whether the same identical photograph was viewed twice or whether two photographs with overlapping content were observed. In Experiment 2 (N = 28), the memorability of the large image was estimated by a pre-trained deep neural network. Neither the recognition accuracy for an image part nor the tendency for false alarms correlated with the memorability. Finally, in Experiment 3 (N = 21), we repeated the experiment while measuring eye movements. Fixations were biased toward the center of the original large photograph in the first presentation, and this bias was repeated during the second presentation in both identical and overlapping views. Altogether, our experiments show that people recognize parts of remembered photographs, but they find it difficult to reject foils from unseen parts, suggesting that their memory representation is not sufficiently detailed to rule them out as distractors.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
-tags: []
+tags: [Visual scenes, Overlapping content, False alarms, Visual memory]
 
 # Display this page in the Featured widget?
 featured: false
