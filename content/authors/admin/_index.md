@@ -31,13 +31,7 @@ education:
   - course: PhD in Theoretical computer science
     institution: Charles University, Faculty of Mathematics and Physics
     year: 2017
-  - course: MSc in Theoretical computer science
-    institution: Charles University, Faculty of Mathematics and Physics
-    year: 2012
-  - course: BSc in General computer science
-    institution: Charles University, Faculty of Mathematics and Physics
-    year: 2010
-
+  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -74,6 +68,4 @@ email: "dechterenko@praha.psu.cas.cz"
 highlight_name: true
 ---
 
-Filip Dechterenko is a researcher at the Institute of Psychology, Czech Academy of Sciences. He primarily focuses on research on visual memory and visual attention. He uses behavioral experiments, deep neural networks, and eye tracking. Moreover, he loves open science and statistics in general.
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am researcher at the Institute of Psychology, Czech Academy of Sciences. I am primarily focused on research on visual memory and visual attention. I use behavioral experiments, deep neural networks, and eye tracking. Moreover, I love open science and statistics in general.
