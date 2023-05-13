@@ -6,7 +6,7 @@ title: Filip Dechterenko
 superuser: true
 
 # Role/position/tagline
-role: Researcher at Institute of Psychology, Czech Academy of Sciences
+role: Researcher 
 
 # Organizations/Affiliations to show in About widget
 organizations:
