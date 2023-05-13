@@ -16,12 +16,12 @@ weight: 120
 I am co/teaching following courses:
 
 * Faculty of arts:
-* * Introduction to Psychometrics and Psychological Assessment - [Moodle](https://dl1.cuni.cz/course/view.php?id=7432)
-* * Psychological Methodology - [Moodle](https://dl1.cuni.cz/course/view.php?id=10232)
-* * Psychophysics - [Moodle](https://dl1.cuni.cz/course/view.php?id=11781)
-* * Introduction to R - planned for summer term 2023/2024
+   * Introduction to Psychometrics and Psychological Assessment - [Moodle](https://dl1.cuni.cz/course/view.php?id=7432)
+   * Psychological Methodology - [Moodle](https://dl1.cuni.cz/course/view.php?id=10232)
+   * Psychophysics - [Moodle](https://dl1.cuni.cz/course/view.php?id=11781)
+   * Introduction to R - planned for summer term 2023/2024
 * College of Polytechnics Jihlava:
-* * Statistics - Moodle link will added before the course start
+   * Statistics - Moodle link will added before the course start
 
 **Bachelor/Master theses:**
 
