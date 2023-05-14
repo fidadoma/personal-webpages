@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: 'See Google Scholar for my full profile'
+subtitle: 'See Google Scholar for my complete profile'
 
 content:
   # Page type to display. E.g. post, talk, publication...

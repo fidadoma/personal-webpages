@@ -1,6 +1,6 @@
 ---
 title: Maximal visual memory
-summary: Can we memorize images to great details? 
+summary: Can we memorize images in great detail? 
 tags:
 - Visual memory
 - Visual memory capacity
@@ -32,4 +32,4 @@ url_video: ""
 slides: example
 ---
 
-In this project, we are answering a question, whether there is a upper limit to visual memory fidelity. In another words, if we try to memorize image to great detail, how difficult it is?
+In this project, we are answering question of whether there is an upper limit to visual memory fidelity. In other words, if we try to memorize images in great detail, how difficult is it?

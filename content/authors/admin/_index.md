@@ -28,7 +28,7 @@ education:
   - course: MSc in Psychology
     institution: Charles University, Faculty of Arts
     year: 2019
-  - course: PhD in Theoretical computer science
+  - course: Ph.D. in Theoretical computer science
     institution: Charles University, Faculty of Mathematics and Physics
     year: 2017
   
@@ -68,4 +68,4 @@ email: "dechterenko@praha.psu.cas.cz"
 highlight_name: true
 ---
 
-I am researcher at the Institute of Psychology, Czech Academy of Sciences. I am primarily focused on research on visual memory and visual attention. I use behavioral experiments, deep neural networks, and eye tracking. Moreover, I love open science and statistics in general.
+I am a researcher at the Institute of Psychology, Czech Academy of Sciences. I am primarily focused on research on visual memory and visual attention. I use behavioral experiments, deep neural networks, and eye tracking. Moreover, I love open science and statistics in general.
