@@ -18,10 +18,10 @@ I am co/teaching the following courses:
 * Faculty of Arts:
    * Introduction to Psychometrics and Psychological Assessment - [Moodle](https://dl1.cuni.cz/course/view.php?id=7432)
    * Psychological Methodology - [Moodle](https://dl1.cuni.cz/course/view.php?id=10232)
-   * Psychophysics - [Moodle](https://dl1.cuni.cz/course/view.php?id=11781)
+   * Psychophysics - planned for summer term in 2024/2025
    * Introduction to R - planned for summer term 2023/2024
 * College of Polytechnics Jihlava:
-   * Statistics - Moodle link will be added before the course start
+   * Statistics - [Moodle](https://moodle.vspj.cz/course/view.php?id=202822)
 
 **Bachelor/Master theses:**
 
